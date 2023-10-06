@@ -13,7 +13,7 @@ export default function Home() {
       </div>
       <div className='relative z-10 flex flex-col items-center justify-center h-full'>
 
-        <div className='absolute inset-y-64'><h1 className='title font-sans text-fuchsia-50 -mx-13 text-7xl leading-10 decoration-transparent'>Steve Jobs</h1></div>
+        <div><h1 className='title font-sans text-fuchsia-50 -mx-13 text-7xl leading-10 decoration-transparent'>Steve Jobs</h1></div>
         <ul className='pt-12'>
          {/* <li>
           <Link href="/early_life"><snap className='text-3xl font-italic font-sans text-red-800'>EARLY LIFE</snap></Link>
